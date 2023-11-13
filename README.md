@@ -1,4 +1,4 @@
-# mit-think
+# PPG Sleepiness Detector
 ***
 ## HRV Arduino
 ***
