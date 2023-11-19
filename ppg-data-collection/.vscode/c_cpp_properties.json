@@ -10,6 +10,7 @@
             "includePath": [
                 "/Users/eric/Projects/PPG-Sleepiness-Detector/ppg-data-collection/include",
                 "/Users/eric/Projects/PPG-Sleepiness-Detector/ppg-data-collection/src",
+                "/Users/eric/Projects/PPG-Sleepiness-Detector/ppg-data-collection/lib/PulseSensor/src",
                 "/Users/eric/.platformio/packages/framework-arduino-avr/cores/arduino",
                 "/Users/eric/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs",
                 "/Users/eric/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
@@ -24,6 +25,7 @@
                 "path": [
                     "/Users/eric/Projects/PPG-Sleepiness-Detector/ppg-data-collection/include",
                     "/Users/eric/Projects/PPG-Sleepiness-Detector/ppg-data-collection/src",
+                    "/Users/eric/Projects/PPG-Sleepiness-Detector/ppg-data-collection/lib/PulseSensor/src",
                     "/Users/eric/.platformio/packages/framework-arduino-avr/cores/arduino",
                     "/Users/eric/.platformio/packages/framework-arduino-avr/variants/eightanaloginputs",
                     "/Users/eric/.platformio/packages/framework-arduino-avr/libraries/EEPROM/src",
