@@ -26,6 +26,7 @@
    See PulseSensor_BPM_Alternative.ino for an example of not using interrupts.
 */
 #define USE_ARDUINO_INTERRUPTS true
+#include <Arduino.h>
 #include <PulseSensorPlayground.h>
 
 /*
