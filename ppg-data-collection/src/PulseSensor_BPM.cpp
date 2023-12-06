@@ -123,6 +123,7 @@ void loop() {
 
   // write the latest sample to Serial.
  pulseSensor.outputSample();
+   Serial.println("test");
 
   /*
      If a beat has happened since we last checked,
