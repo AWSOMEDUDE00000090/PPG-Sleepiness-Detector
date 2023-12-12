@@ -39,7 +39,7 @@
    Set this to SERIAL_PLOTTER if you're going to run
     the Arduino IDE's Serial Plotter.
 */
-const int OUTPUT_TYPE = SERIAL_PLOTTER;
+const int OUTPUT_TYPE = PROCESSING_VISUALIZER;
 
 /*
    Pinout:
@@ -123,6 +123,7 @@ void loop() {
 
   // write the latest sample to Serial.
  pulseSensor.outputSample();
+   Serial.println("test");
 
   /*
      If a beat has happened since we last checked,
